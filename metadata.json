@@ -1,0 +1,6 @@
+{
+  "name": "PR Planner",
+  "description": "Ruang kerja interaktif Penjadwalan Konten Optimal untuk program kehumasan: perencanaan, produksi, publikasi, hingga evaluasi alur kerja PR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
